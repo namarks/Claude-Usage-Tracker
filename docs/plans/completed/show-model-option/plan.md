@@ -1,6 +1,12 @@
 # Show Model Option Implementation Plan
 
-> **For Claude:** REQUIRED SUB-SKILL: Use superpowers:executing-plans to implement this plan task-by-task.
+Slug: show-model-option · Status: done · Updated: 2026-01-23 · Theme: settings
+
+Archived: completed
+
+> Historical execution note from the original plan: it was written for the
+> then-current Claude task-by-task workflow. It is retained as evidence, not as
+> an instruction for future agents.
 
 **Goal:** Add a "Model name" checkbox to the Claude Code statusline settings that displays the current model (e.g., "Opus", "Sonnet") as the first component in the status line.
 
